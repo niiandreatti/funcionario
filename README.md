@@ -4,4 +4,4 @@ Este projeto tem como objetivo desenvolver um sistema de gerenciamento de funcio
 
 O projeto abrange diferentes tipos de funcionários, cada um com suas características e funcionalidades específicas. A classe base Funcionario define os atributos e métodos comuns a todos os funcionários, enquanto classes especializadas, como GerenteTI, CientistaDados e DevFrontend, herdam de Funcionario e adicionam funcionalidades específicas de suas respectivas funções.
 
-![Visualização do diagrama](funiconario.png)
+![Visualização do diagrama](funcionario.png)
